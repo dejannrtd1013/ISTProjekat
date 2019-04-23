@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Adresar
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="adresar.xsd">
+
+<Osoba JMBG="2002985150001">
+  <PunoIme>
+    <Ime>Dejan</Ime>
+    <SrednjeIme>Petar</SrednjeIme>
+    <Prezime>Milutinovic</Prezime>
+    </PunoIme>
+    <DatumRodjenja>
+     <Dan>20</Dan>
+     <Mesec>2</Mesec>
+     <Godina>1985</Godina>
+    </DatumRodjenja>
+   <Adresa>
+    <Ulica>Mose Pijade</Ulica>
+    <Broj>99</Broj>
+    <Mesto>Pancevo</Mesto>
+   </Adresa>
+     <Telefon tip="mobilni">069/589-2009</Telefon>
+     <Email tip="Privatni">dejan_mlt@yahoo.com</Email>
+    </Osoba>
+   <Osoba JMBG="1509015864235">
+   <PunoIme>
+   <Ime>Katarina</Ime>
+   <SrednjeIme>Dejan</SrednjeIme>
+   <Prezime>Milutinovic</Prezime>
+  </PunoIme>
+  <DatumRodjenja>
+   <Dan>15</Dan>
+   <Mesec>9</Mesec>
+   <Godina>2015</Godina>
+  </DatumRodjenja>
+ <Adresa>
+    <Ulica>Mose Pijade</Ulica>
+    <Broj>99</Broj>
+    <Mesto>Pancevo</Mesto>
+    </Adresa>
+  <Telefon tip="fiksni">013/366-488</Telefon>
+  <Email tip="privatni">kaja@gmail.com</Email>
+ </Osoba>
+<Osoba JMBG="1104987865231">
+   <PunoIme>
+    <Ime>Aleksandra</Ime>
+    <Prezime>Kazanegra</Prezime>
+   </PunoIme>
+  <DatumRodjenja>
+    <Dan>11</Dan>
+    <Mesec>4</Mesec>
+    <Godina>1987</Godina>
+  </DatumRodjenja>
+  <Adresa>
+     <Ulica>Mose Pijade</Ulica>
+     <Broj>99</Broj>
+     <Mesto>Pancevo</Mesto>
+   </Adresa>
+  <Telefon tip="mobilni">069/1264-969</Telefon>
+  <Email tip="privatni">Asthamoze@gmail.com</Email>
+  </Osoba>
+ <Preduzece PIB="708635265">
+ <Naziv>Yuppi DOO</Naziv>
+ <Adresa>
+   <Ulica>Svetog Save</Ulica>
+   <Broj>114</Broj>
+   <Mesto>Pancevo</Mesto>
+  </Adresa>
+ <Telefon tip="mobilni">063/1866-552</Telefon>
+ <Email tip="privatni">Zaric@gmail.com</Email>
+ </Preduzece>
+   <Preduzece PIB="12345678910"></Preduzece>
+   <Naziv>Trokal</Naziv>
+   <Adresa>
+     <Ulica>Svetog Save</Ulica>
+     <Broj>114</Broj>
+     <Mesto>Pancevo</Mesto>
+   <adresa>
+  <Telefon tip="fiksni">013/598-123</Telefon>
+  <Email tip="sluzbeni">trokaltepisi@gmail.com</Email>
+ </Preduzece>
+ </Adresar>
